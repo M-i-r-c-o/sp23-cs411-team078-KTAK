@@ -6,12 +6,12 @@
 | ----------- | ---------------------- |
 | TeamID      |        Team-078        |
 | TeamName    |         KTAK           |
-| Captain     |    Tabeeb Khandaker    |
-| Captain     |  tabeeb@illinois.edu  |
+| Captain     |    Adarsh Kamath       |
+| Captain     |  adarshk3@illinois.edu |
 | Member1     | Kashyap Ramachandrula  |
 | Member1     |  kramac3@illinois.edu  |
-| Member2     |      Adarsh Kamath     |
-| Member2     |  adarshk3@illinois.edu |
+| Member2     |    Tabeeb Khandaker    |
+| Member2     |   tabeeb@illinois.edu  |
 | Member3     |        Kejun Wu        |
 | Member3     |  kejunwu2@illinois.edu |
 
